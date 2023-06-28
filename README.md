@@ -5,7 +5,6 @@ pip install -r requirements.txt
 ```
 将MergeDB文件夹下的movie_total.rar文件解压到app.py的同级目录下
 ## 二、运行
-- 创建数据库（在创建自己的数据库前请先删除我提供的数据库，你也可以跳过创建数据库这一步而使用我提前创建好的数据库）
 ```cmd
 python app.py
 ```
